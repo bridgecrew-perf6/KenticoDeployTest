@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.adhocrelationship>
+  <Parent>
+    <CodeName>/Store/Hot-tips</CodeName>
+    <GUID>1c5a43d1-0134-405e-aeb0-c1e9731d2b51</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.node_/Store/Brewers/AeroPress_cms.site_DancingGoatMvc-cms.relationshipname_DancingGoatMvc.HotTips_8a768436-ef8c-4980-8b80-5d66dd0e17cd">
+      <RelationshipIsAdHoc>True</RelationshipIsAdHoc>
+      <RelationshipNameID>
+        <CodeName>DancingGoatMvc.HotTips_8a768436-ef8c-4980-8b80-5d66dd0e17cd</CodeName>
+        <GUID>e0e6ccd3-fa8b-44c7-8e55-13a27006174f</GUID>
+        <ObjectType>cms.relationshipname</ObjectType>
+      </RelationshipNameID>
+      <RelationshipOrder>3</RelationshipOrder>
+      <RightNodeID>
+        <CodeName>/Store/Brewers/AeroPress</CodeName>
+        <GUID>11b143da-c57a-446b-9e4c-b77a8d5733d6</GUID>
+        <ObjectType>cms.node</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </RightNodeID>
+    </Binding>
+  </Bindings>
+</cms.adhocrelationship>

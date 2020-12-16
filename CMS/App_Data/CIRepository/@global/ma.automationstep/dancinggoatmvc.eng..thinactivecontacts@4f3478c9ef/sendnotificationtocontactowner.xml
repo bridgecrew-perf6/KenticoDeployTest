@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ma.automationstep>
+  <StepActionID>
+    <CodeName>Send_e-mail</CodeName>
+    <GUID>a578a254-b251-4f1e-abb7-533e5898f012</GUID>
+    <ObjectType>ma.automationaction</ObjectType>
+  </StepActionID>
+  <StepActionParameters>
+    <Parameters>
+      <BasedOn>1</BasedOn>
+      <Body>
+        <![CDATA[The system&#39;s &#39;Engage with inactive contacts&#39; automation process has evaluated contact &#39;{% Contact.ContactFirstName + " " + Contact.ContactLastName |(identity)GlobalAdministrator|(hash)f696385ecfde9f673dc0434c5c851dafd86f891259cf97ff24ab6cab51674ee8%}&#39; as inactive. This contact does not have a known email address, but can be contacted by phone using the number &#39;{% Contact.ContactMobilePhone |(identity)GlobalAdministrator|(hash)63d6a2b7759bf0694799cb33ec876768bc86d3bf56c8d89682e6cd16bec63de1%}&#39;. Call the contact and attempt to re-engage them. Then move the contact to the &#39;Finished&#39; step within the process.]]>
+      </Body>
+      <From>dancinggoat@localhost.local</From>
+      <Subject>New pending inactive contact</Subject>
+      <To ismacro="True">
+        <![CDATA[{% Contact.ContactOwnerUser.Email |(identity)GlobalAdministrator|(hash)6df23deb3650b831385de436b20ca27434fa7ea72575701076cb242c59ba11c0%}]]>
+      </To>
+    </Parameters>
+  </StepActionParameters>
+  <StepDefinition>
+    <Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <TimeoutEnabled>false</TimeoutEnabled>
+      <TimeoutTarget>00000000-0000-0000-0000-000000000000</TimeoutTarget>
+      <SourcePoints>
+        <SourcePoint Guid="5bd2b208-7c13-4d8e-bd41-ad300197d848">
+          <Label>Default</Label>
+          <Type>0</Type>
+          <StepRolesSecurity>0</StepRolesSecurity>
+          <StepUsersSecurity>0</StepUsersSecurity>
+        </SourcePoint>
+      </SourcePoints>
+      <Position>
+        <X>2390</X>
+        <Y>480</Y>
+      </Position>
+    </Step>
+  </StepDefinition>
+  <StepDisplayName>Send notification to contact owner</StepDisplayName>
+  <StepGUID>21f87423-08a9-4ca4-b898-9d4ae4b5ff52</StepGUID>
+  <StepName>SendNotificationToContactOwner</StepName>
+  <StepRolesSecurity>0</StepRolesSecurity>
+  <StepType>11</StepType>
+  <StepUsersSecurity>0</StepUsersSecurity>
+  <StepWorkflowID>
+    <CodeName>DancingGoatMvc.EngageWithInactiveContacts</CodeName>
+    <GUID>5fc41baf-a73b-4a3c-b6a4-501806e392c0</GUID>
+    <ObjectType>ma.automationprocess</ObjectType>
+  </StepWorkflowID>
+  <StepWorkflowType>3</StepWorkflowType>
+</ma.automationstep>

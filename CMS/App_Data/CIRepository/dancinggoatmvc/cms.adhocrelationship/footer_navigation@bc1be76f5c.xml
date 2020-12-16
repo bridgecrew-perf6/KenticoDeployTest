@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.adhocrelationship>
+  <Parent>
+    <CodeName>/Footer/Navigation</CodeName>
+    <GUID>e3594f78-86ee-4fdf-95e5-1cf15824c7fc</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.node_/Articles/Articles-under-workflow/Donate-with-us_cms.site_DancingGoatMvc-cms.relationshipname_DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594">
+      <RelationshipIsAdHoc>True</RelationshipIsAdHoc>
+      <RelationshipNameID>
+        <CodeName>DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594</CodeName>
+        <GUID>3ef558b8-c11e-4814-aec4-3ccff7a2cbb9</GUID>
+        <ObjectType>cms.relationshipname</ObjectType>
+      </RelationshipNameID>
+      <RelationshipOrder>1</RelationshipOrder>
+      <RightNodeID>
+        <CodeName>/Articles/Articles-under-workflow/Donate-with-us</CodeName>
+        <GUID>5d10aaaa-0d46-488e-a8db-5d6390386edb</GUID>
+        <ObjectType>cms.node</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </RightNodeID>
+    </Binding>
+    <Binding id="cms.node_/Landing-pages/Coffee-samples_cms.site_DancingGoatMvc-cms.relationshipname_DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594">
+      <RelationshipIsAdHoc>True</RelationshipIsAdHoc>
+      <RelationshipNameID>
+        <CodeName>DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594</CodeName>
+        <GUID>3ef558b8-c11e-4814-aec4-3ccff7a2cbb9</GUID>
+        <ObjectType>cms.relationshipname</ObjectType>
+      </RelationshipNameID>
+      <RelationshipOrder>2</RelationshipOrder>
+      <RightNodeID>
+        <CodeName>/Landing-pages/Coffee-samples</CodeName>
+        <GUID>3d9ae52e-c6d7-4d75-b98a-bf37ca19cf0b</GUID>
+        <ObjectType>cms.node</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </RightNodeID>
+    </Binding>
+    <Binding id="cms.node_/Specials/Privacy_cms.site_DancingGoatMvc-cms.relationshipname_DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594">
+      <RelationshipIsAdHoc>True</RelationshipIsAdHoc>
+      <RelationshipNameID>
+        <CodeName>DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594</CodeName>
+        <GUID>3ef558b8-c11e-4814-aec4-3ccff7a2cbb9</GUID>
+        <ObjectType>cms.relationshipname</ObjectType>
+      </RelationshipNameID>
+      <RelationshipOrder>3</RelationshipOrder>
+      <RightNodeID>
+        <CodeName>/Specials/Privacy</CodeName>
+        <GUID>395787b0-6b8a-441d-a923-ee29a74abe63</GUID>
+        <ObjectType>cms.node</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </RightNodeID>
+    </Binding>
+  </Bindings>
+</cms.adhocrelationship>

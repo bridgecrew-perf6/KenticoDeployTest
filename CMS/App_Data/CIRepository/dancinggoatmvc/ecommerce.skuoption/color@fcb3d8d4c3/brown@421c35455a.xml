@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.skuoption>
+  <SKUEnabled>True</SKUEnabled>
+  <SKUGUID>48c21cd5-8d19-4480-8658-197dc2822dd8</SKUGUID>
+  <SKUInStoreFrom>2016-03-30 08:23:57Z</SKUInStoreFrom>
+  <SKUName>Brown</SKUName>
+  <SKUNeedsShipping>False</SKUNeedsShipping>
+  <SKUOptionCategoryID>
+    <CodeName>Color</CodeName>
+    <GUID>eda41f07-af85-4092-b8ab-ad92cb7289da</GUID>
+    <ObjectType>ecommerce.optioncategory</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </SKUOptionCategoryID>
+  <SKUOrder>3</SKUOrder>
+  <SKUPrice>0</SKUPrice>
+  <SKUProductType>PRODUCT</SKUProductType>
+  <SKUSellOnlyAvailable>False</SKUSellOnlyAvailable>
+  <SKUSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </SKUSiteID>
+  <SKUTrackInventory>ByProduct</SKUTrackInventory>
+</ecommerce.skuoption>

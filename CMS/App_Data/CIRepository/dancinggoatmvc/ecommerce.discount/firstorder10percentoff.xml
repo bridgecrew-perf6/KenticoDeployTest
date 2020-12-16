@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.discount>
+  <DiscountApplyFurtherDiscounts>True</DiscountApplyFurtherDiscounts>
+  <DiscountApplyTo>Order</DiscountApplyTo>
+  <DiscountCartCondition>
+    <![CDATA[{%Rule("((Customer == null) ? true : Customer.Orders.Count < 1)", "<rules><r pos=\"0\" par=\"\" op=\"and\" n=\"OrderIsOneOfTheFirstXOrder_s_ThatTheRegisteredCustomerHasPlaced\" ><p n=\"numOrders\"><t>1</t><v>1</v><r>0</r><d>select count</d><vt>integer</vt><tv>1</tv></p></r></rules>")|(identity)GlobalAdministrator|(hash)9985f1ac69290a0223d3b3debed6cb36ec682d78c3bba51f504c56c40f5ffd06%}]]>
+  </DiscountCartCondition>
+  <DiscountCustomerRestriction>All</DiscountCustomerRestriction>
+  <DiscountDisplayName>10% off for the first order</DiscountDisplayName>
+  <DiscountEnabled>True</DiscountEnabled>
+  <DiscountGUID>ced16436-092e-4b37-b127-780b1942b1dc</DiscountGUID>
+  <DiscountIsFlat>False</DiscountIsFlat>
+  <DiscountName>FirstOrder10PercentOff</DiscountName>
+  <DiscountOrder>1</DiscountOrder>
+  <DiscountRoles />
+  <DiscountSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </DiscountSiteID>
+  <DiscountUsesCoupons>True</DiscountUsesCoupons>
+  <DiscountValue>10</DiscountValue>
+</ecommerce.discount>

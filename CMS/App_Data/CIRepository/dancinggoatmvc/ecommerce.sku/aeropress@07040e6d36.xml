@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.sku>
+  <SKUAvailableItems>10</SKUAvailableItems>
+  <SKUDepartmentID>
+    <CodeName>DancingGoatMvc.Brewers</CodeName>
+    <GUID>3674002a-de5d-41de-9592-2fa18d1a469d</GUID>
+    <ObjectType>ecommerce.department</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </SKUDepartmentID>
+  <SKUDescription>
+<![CDATA[
+<p>Presenting a coffee-making revolution, the AeroPress Coffee Maker.</p>
+
+<p>Affordable and straightforward for producing top notch coffee with. If you enjoy delicious and smooth coffee, you&#39;ve come to the right place. With the innovative AeroPress, you&#39;ll be enjoying your perfect cup in no time.</p>
+
+<p>Using this device, you&#39;ll be amazed at how good your coffee can taste. Its ease of use will amaze you even more. Coffee making with the versatile brewing technique offered by AeroPress. Any kind of coffee, from any part of the world will taste its best when combined with AeroPress. If you just want to enjoy the perfect quick cup, or you enjoy tinkering with the delicacies of coffee brewing, the AeroPress Coffee Maker will hit the spot!</p>
+
+<p>Each AeroPress comes with a pack of filters included in the box.</p>
+
+]]>
+  </SKUDescription>
+  <SKUEnabled>True</SKUEnabled>
+  <SKUGUID>8c2312c0-b474-45f3-a51b-6b803ed0b1cd</SKUGUID>
+  <SKUImagePath>
+    <![CDATA[~/getmetafile/a2d2c038-63bf-480a-a6b2-e04d53ddd644/aeropress]]>
+  </SKUImagePath>
+  <SKUInStoreFrom>2016-03-15 12:30:52Z</SKUInStoreFrom>
+  <SKUManufacturerID>
+    <CodeName>Aerobie</CodeName>
+    <GUID>2bd351ae-a0a4-4a36-9b8c-0be585212bb3</GUID>
+    <ObjectType>ecommerce.manufacturer</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </SKUManufacturerID>
+  <SKUName>AeroPress</SKUName>
+  <SKUNeedsShipping>True</SKUNeedsShipping>
+  <SKUNumber>AER-AP</SKUNumber>
+  <SKUPrice>25.9</SKUPrice>
+  <SKUProductType>PRODUCT</SKUProductType>
+  <SKUPublicStatusID>
+    <CodeName>DancingGoatMvc.Bestseller</CodeName>
+    <GUID>ec91ee1a-0ef0-48ea-872f-2527f8b121a2</GUID>
+    <ObjectType>ecommerce.publicstatus</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </SKUPublicStatusID>
+  <SKUSellOnlyAvailable>True</SKUSellOnlyAvailable>
+  <SKUShortDescription>
+<![CDATA[
+<p>AeroPress presents this coffee-making revolution which is affordable and makes delicious and smooth coffee.</p>
+
+]]>
+  </SKUShortDescription>
+  <SKUSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </SKUSiteID>
+  <SKUTaxClassID>
+    <CodeName>DancingGoatMVC.SalesTax</CodeName>
+    <GUID>52f40330-c52a-4ab7-af88-165ed527f531</GUID>
+    <ObjectType>ecommerce.taxclass</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </SKUTaxClassID>
+  <SKUTrackInventory>ByProduct</SKUTrackInventory>
+  <SKUWeight>1</SKUWeight>
+</ecommerce.sku>

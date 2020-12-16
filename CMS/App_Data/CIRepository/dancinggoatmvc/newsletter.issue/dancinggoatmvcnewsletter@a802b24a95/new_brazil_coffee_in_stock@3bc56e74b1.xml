@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsletter.issue>
+  <IssueDisplayName>New Brazil coffee in stock</IssueDisplayName>
+  <IssueForAutomation>False</IssueForAutomation>
+  <IssueGUID>f7ea6a76-2de6-4452-b5d7-3feabcab7e75</IssueGUID>
+  <IssueNewsletterID>
+    <CodeName>DancingGoatMvcNewsletter</CodeName>
+    <GUID>e7a9b7a7-2a1c-4f46-8a0c-814f3209481d</GUID>
+    <ObjectType>newsletter.newsletter</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </IssueNewsletterID>
+  <IssuePreheader>
+    <![CDATA[{% Recipient.FirstName == "" ? "Hello" : "Hi " + Recipient.FirstName |(identity)GlobalAdministrator|(hash)2ecc10d98190abe747182906eddb66f6330d9e1f3b3c803ab784989121a044ce%}! Come and taste our new coffee with a creamy mouth sensation, and a cherry and chocolaty flavor.]]>
+  </IssuePreheader>
+  <IssueSenderEmail>dancinggoat@localhost.local</IssueSenderEmail>
+  <IssueSenderName>Zoey from Dancing Goat</IssueSenderName>
+  <IssueSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </IssueSiteID>
+  <IssueSubject>Try our new Brazilian coffee!</IssueSubject>
+  <IssueTemplateID>
+    <CodeName>MvcDemoEmailTemplate3zones</CodeName>
+    <GUID>8e0d3101-44fa-4f1f-88c8-2a72bfc8c0e2</GUID>
+    <ObjectType>newsletter.emailtemplate</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </IssueTemplateID>
+  <IssueText>
+<![CDATA[
+<?xml version="1.0" encoding="utf-16"?>
+<content>
+  <region id="CoffeeName">Brazil Natural Barra Grande</region>
+  <region id="CoffeeTeaser">fruity, sweet and smooth</region>
+  <region id="coffeePicture">&lt;img alt="Brazil Natural Barra Grande" border="0" class="responsive-image" src="http://127.0.0.78/DancingGoatMVC/getmedia/d1882c5c-925b-42a4-9180-e83f2ce4eb36/Kona-Coffee" style="height:auto" width="600" /&gt;</region>
+  <region id="coffeeText">&lt;table border="0" cellpadding="0" cellspacing="0" class="responsive-table" width="600"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td align="left" style="font-family: Verdana, sans-serif;font-size: 16px;"&gt;Taste the Natural Barra Grande from the high altitudes of Poco Fundo in the Minas Gerais in Brazil where a family business has been growing coffee for three generations and is really keen on natural processing.&lt;br /&gt;
+			&lt;br /&gt;
+			The path of the Barra Grande has not always been shiny. Father of Sildes Caixeta, the current owner, was forced to sell their company when Sildes was just 5 years old. After long years of waiting, Sildes accomplished to buy the company back and now says that patience is the family secret on how to grow good coffee and teaches his motto to his son.&lt;br /&gt;
+			&lt;br /&gt;
+			This coffee is a blend of Yellow Catuai and Mundo Novo which excellent large beans are patio dried and create a creamy mouthfeel and a cherry flavor with a pinch of chocolate and caramel.&lt;br /&gt;
+			&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td align="center"&gt;&amp;nbsp;
+			&lt;table cellpadding="0" cellspacing="0"&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td align="center" bgcolor="#08768C" height="45" style="padding:5px 10px 5px 10px;border-width: 2px; color: #ffffff; display: block; border-color: #08768C; border-style: solid;" width="180"&gt;&lt;a href="~/store/coffees/brazil-natural-barra-grande/" style="font-size:16px; font-weight: normal; font-family: 'Source Sans Pro', sans-serif; text-decoration: none; line-height:45px; width:180; display:inline-block"&gt;&lt;span style="color: #ffffff"&gt;MORE DETAILS&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+</region>
+</content>
+]]>
+  </IssueText>
+  <IssueUseUTM>True</IssueUseUTM>
+  <IssueUTMCampaign>dancinggoatmvcnewsletter</IssueUTMCampaign>
+  <IssueUTMSource>
+    <![CDATA[dancinggoatmvcnewsletter_new_brazil_coffee_in_stock]]>
+  </IssueUTMSource>
+  <IssueWidgets>
+    <Configuration xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+      <Zones>
+        <Zone>
+          <Identifier>zone1</Identifier>
+          <Widgets>
+            <Widget>
+              <Identifier>fe354d53-f87c-4321-85d5-33276fc0ba35</Identifier>
+              <TypeIdentifier>a33d5b78-5a4a-449c-8f16-7337ffbaaf37</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[Keeping you up to date with the latest and greatest from the wonderful world of coffee.]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>74637846-6051-445f-8322-dff09864e8e4</Identifier>
+              <TypeIdentifier>153f374d-d29d-48e0-ac61-ae5ed385d89a</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>ProductGUID</Name>
+                  <Value>108baaff-9cd3-4fff-8ce6-22528c729071</Value>
+                </Property>
+                <Property>
+                  <Name>ButtonText</Name>
+                  <Value>Learn More</Value>
+                </Property>
+                <Property>
+                  <Name>UTMContent</Name>
+                  <Value>coffeeproductlink</Value>
+                </Property>
+                <Property>
+                  <Name>AlternativeProductImage</Name>
+                  <Value />
+                </Property>
+                <Property>
+                  <Name>AlternativeProductName</Name>
+                  <Value />
+                </Property>
+                <Property>
+                  <Name>AlternativeProductDescription</Name>
+                  <Value />
+                </Property>
+              </Properties>
+            </Widget>
+          </Widgets>
+        </Zone>
+        <Zone>
+          <Identifier>zone2</Identifier>
+          <Widgets>
+            <Widget>
+              <Identifier>dec5f74b-a7e2-4a55-95e8-7e920f16c2e5</Identifier>
+              <TypeIdentifier>12077b33-fe01-418b-87e2-0e7c1a386b3a</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>This week’s round up</Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>6d5c6d88-05fe-44a7-9e86-b84633aa3d98</Identifier>
+              <TypeIdentifier>a33d5b78-5a4a-449c-8f16-7337ffbaaf37</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[Here are some interesting articles that might have passed you by.]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>84fd00d0-ab25-4ab8-aac5-fad4d87f61f2</Identifier>
+              <TypeIdentifier>6f3c80fe-fc43-4be0-9140-79551697736b</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>LinkText</Name>
+                  <Value />
+                </Property>
+                <Property>
+                  <Name>UTMContent</Name>
+                  <Value>latestarticleslink</Value>
+                </Property>
+              </Properties>
+            </Widget>
+          </Widgets>
+        </Zone>
+        <Zone>
+          <Identifier>zone3</Identifier>
+          <Widgets>
+            <Widget>
+              <Identifier>ceb5b1b3-7f13-47e1-ac25-65feb90ed635</Identifier>
+              <TypeIdentifier>12077b33-fe01-418b-87e2-0e7c1a386b3a</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[Find Your Local Café]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>0fe552c7-a060-4431-8031-1951321e00a6</Identifier>
+              <TypeIdentifier>a33d5b78-5a4a-449c-8f16-7337ffbaaf37</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[Be sure to drop in and savor some excellent coffee.]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>152638eb-7241-4559-bd86-6abfe0830df5</Identifier>
+              <TypeIdentifier>95d7ae68-ea58-4daa-9623-056233988d22</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[Become a partner and have your café featured]]>
+                  </Value>
+                </Property>
+                <Property>
+                  <Name>Link</Name>
+                  <Value>~/contacts/</Value>
+                </Property>
+                <Property>
+                  <Name>Color</Name>
+                  <Value>#b24143</Value>
+                </Property>
+                <Property>
+                  <Name>UTMContent</Name>
+                  <Value>cafepartnerlink</Value>
+                </Property>
+                <Property>
+                  <Name>Personas</Name>
+                  <Value />
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>8615a085-b59f-42ce-95e3-a6837bb89973</Identifier>
+              <TypeIdentifier>312ceb63-db90-4896-8f1c-7a65f87cfa5d</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>CafePath</Name>
+                  <Value>/Cafes/Los-Angeles</Value>
+                </Property>
+                <Property>
+                  <Name>ButtonText</Name>
+                  <Value>Take me there!</Value>
+                </Property>
+                <Property>
+                  <Name>UTMContent</Name>
+                  <Value>cafelinklosangeles</Value>
+                </Property>
+              </Properties>
+            </Widget>
+          </Widgets>
+        </Zone>
+      </Zones>
+    </Configuration>
+  </IssueWidgets>
+</newsletter.issue>

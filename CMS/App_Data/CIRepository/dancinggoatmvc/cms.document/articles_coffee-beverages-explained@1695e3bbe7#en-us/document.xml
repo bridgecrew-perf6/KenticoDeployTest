@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for Coffee Beverages Explained -->
+<cms.documentlocalization>
+  <DocumentContent />
+  <DocumentCreatedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentCreatedByUserID>
+  <DocumentCreatedWhen>2015-04-03 14:15:01Z</DocumentCreatedWhen>
+  <DocumentCulture>en-US</DocumentCulture>
+  <DocumentGUID>ea531504-e4c2-459f-a693-8d4989244cbc</DocumentGUID>
+  <DocumentModifiedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentModifiedByUserID>
+  <DocumentModifiedWhen>2019-09-03 06:48:45Z</DocumentModifiedWhen>
+  <DocumentName>Coffee Beverages Explained</DocumentName>
+  <DocumentNodeID>
+    <CodeName>/Articles/Coffee-Beverages-Explained</CodeName>
+    <GUID>1f19b6cb-90a8-457e-a735-7bb9502cb8d3</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </DocumentNodeID>
+  <DocumentPageTemplateConfiguration>
+    <![CDATA[{"identifier":"DancingGoat.ArticleWithSidebar","properties":null}]]>
+  </DocumentPageTemplateConfiguration>
+  <DocumentPublishFrom>2014-11-18 15:51:38Z</DocumentPublishFrom>
+  <DocumentShowInMenu>False</DocumentShowInMenu>
+</cms.documentlocalization>

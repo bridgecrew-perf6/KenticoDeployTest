@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<documentfields.dancinggoatmvc.cafe>
+  <CafeCity>Beverly Hills</CafeCity>
+  <CafeCountry>USA;California</CafeCountry>
+  <CafeIsCompanyCafe>True</CafeIsCompanyCafe>
+  <CafeName>Los Angeles</CafeName>
+  <CafePhone>310-492-7732</CafePhone>
+  <CafePhoto>89d66a26-139a-4edc-9856-8f701d27d6c7</CafePhoto>
+  <CafeStreet>9076 Sunset Boulevard</CafeStreet>
+  <CafeZipCode>90210</CafeZipCode>
+</documentfields.dancinggoatmvc.cafe>

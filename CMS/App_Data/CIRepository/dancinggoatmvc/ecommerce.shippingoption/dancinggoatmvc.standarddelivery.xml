@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.shippingoption>
+  <ShippingOptionCarrierID>
+    <CodeName>DancingGoatMvc.DefaultCarrier</CodeName>
+    <GUID>0663fb8c-8774-4b76-9b21-0105e2cfebfd</GUID>
+    <ObjectType>ecommerce.carrier</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </ShippingOptionCarrierID>
+  <ShippingOptionCarrierServiceName>CostByWeight</ShippingOptionCarrierServiceName>
+  <ShippingOptionDisplayName>Standard Delivery</ShippingOptionDisplayName>
+  <ShippingOptionEnabled>True</ShippingOptionEnabled>
+  <ShippingOptionGUID>4e68a340-0d67-476e-8c8d-5eaed5d9598a</ShippingOptionGUID>
+  <ShippingOptionName>DancingGoatMvc.StandardDelivery</ShippingOptionName>
+  <ShippingOptionSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ShippingOptionSiteID>
+</ecommerce.shippingoption>

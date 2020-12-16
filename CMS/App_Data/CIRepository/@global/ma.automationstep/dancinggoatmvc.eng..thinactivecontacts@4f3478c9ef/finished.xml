@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ma.automationstep>
+  <StepActionParameters />
+  <StepDefinition>
+    <Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <TimeoutEnabled>false</TimeoutEnabled>
+      <TimeoutTarget>00000000-0000-0000-0000-000000000000</TimeoutTarget>
+      <SourcePoints />
+      <Position>
+        <X>2570</X>
+        <Y>950</Y>
+      </Position>
+    </Step>
+  </StepDefinition>
+  <StepDisplayName>Finished</StepDisplayName>
+  <StepGUID>ccafdc52-8ae4-409b-839e-a7ac5d22ab98</StepGUID>
+  <StepName>finished</StepName>
+  <StepRolesSecurity>0</StepRolesSecurity>
+  <StepType>99</StepType>
+  <StepUsersSecurity>0</StepUsersSecurity>
+  <StepWorkflowID>
+    <CodeName>DancingGoatMvc.EngageWithInactiveContacts</CodeName>
+    <GUID>5fc41baf-a73b-4a3c-b6a4-501806e392c0</GUID>
+    <ObjectType>ma.automationprocess</ObjectType>
+  </StepWorkflowID>
+  <StepWorkflowType>3</StepWorkflowType>
+</ma.automationstep>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for /About-Us/References/Jimmie-Dimmick -->
+<cms.node>
+  <NodeACLID>
+    <GUID>f302cf1b-59b5-4ceb-b1c0-348fbc653fbb</GUID>
+    <ObjectType>cms.acl</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NodeACLID>
+  <NodeAlias>Jimmie-Dimmick</NodeAlias>
+  <NodeClassID>
+    <CodeName>DancingGoatMvc.Reference</CodeName>
+    <GUID>6f51ecb2-0e13-45c6-a9ec-0e5486fb6849</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </NodeClassID>
+  <NodeGUID>b1cd6687-17e5-468e-aac4-c4e385239d9f</NodeGUID>
+  <NodeIsACLOwner>False</NodeIsACLOwner>
+  <NodeLinkedNodeID>
+    <CodeName>/Specials/References/Jimmie-Dimmick</CodeName>
+    <GUID>7687e48c-a2bc-422c-a054-670f7608973c</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NodeLinkedNodeID>
+  <NodeLinkedNodeSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </NodeLinkedNodeSiteID>
+  <NodeName>Jimmie Dimmick</NodeName>
+  <NodeOrder>1</NodeOrder>
+  <NodeOwner>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </NodeOwner>
+  <NodeParentID>
+    <CodeName>/About-Us/References</CodeName>
+    <GUID>50c88c7a-71cf-4c60-b667-9a3e58fefce9</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NodeParentID>
+  <NodeSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </NodeSiteID>
+</cms.node>

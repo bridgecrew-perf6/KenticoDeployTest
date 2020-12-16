@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.classsite>
+  <Parent>
+    <CodeName>DancingGoatMvc.Coffee</CodeName>
+    <GUID>74708f6d-5985-4b60-839d-aa2a8df0bc72</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="DancingGoatMvc">
+      <SiteID>
+        <CodeName>DancingGoatMvc</CodeName>
+        <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+        <ObjectType>cms.site</ObjectType>
+      </SiteID>
+    </Binding>
+  </Bindings>
+</cms.classsite>

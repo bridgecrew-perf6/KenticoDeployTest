@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for Coffee samples -->
+<cms.documentlocalization>
+  <DocumentContent />
+  <DocumentCreatedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentCreatedByUserID>
+  <DocumentCreatedWhen>2019-12-04 14:20:59Z</DocumentCreatedWhen>
+  <DocumentCulture>en-US</DocumentCulture>
+  <DocumentGUID>999b61c7-e916-40e8-84c1-9c7ab9eef697</DocumentGUID>
+  <DocumentModifiedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentModifiedByUserID>
+  <DocumentModifiedWhen>2020-09-17 11:08:38Z</DocumentModifiedWhen>
+  <DocumentName>Coffee samples</DocumentName>
+  <DocumentNodeID>
+    <CodeName>/Landing-pages/Coffee-samples</CodeName>
+    <GUID>3d9ae52e-c6d7-4d75-b98a-bf37ca19cf0b</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </DocumentNodeID>
+  <DocumentPageBuilderWidgets>
+    <![CDATA[{"editableAreas":[{"identifier":"top","sections":[{"identifier":"be506423-363b-40ed-9790-762febbef2f5","type":"DancingGoat.SingleColumnSection","properties":{"theme":null},"zones":[{"identifier":"22d33c09-f9bc-4b70-bfde-173a5a8f2cee","widgets":[{"identifier":"676acf32-171a-4651-ba56-e1f5e5992cac","type":"DancingGoat.LandingPage.HeroImage","variants":[{"identifier":"b801c8f1-7764-48d2-9054-5183a3bcf3ea","properties":{"image":[{"fileGuid":"6b2c83d9-f31b-46b5-9fa5-399e8fde2edb"}],"text":"Sign up for our weekly coffee samples from your local café!","buttonText":"Taste the coffee","buttonTarget":"#bottom-area","theme":"light"}}]},{"identifier":"a6bc547f-f0b5-4dd6-a51d-5391cb40bddb","type":"Kentico.Widget.RichText","variants":[{"identifier":"c9898147-a52a-4d16-b9c3-89a90a3d5581","properties":{"content":"<h2 style=\"text-align: center;\">Our previous batches:</h2>"}}]}]}]},{"identifier":"a9402c74-6274-40f0-bda1-e663bc1efacf","type":"DancingGoat.ThreeColumnSection","properties":{"title":null,"theme":null},"zones":[{"identifier":"4ebb0293-eeb0-4dc6-9760-b3bb539e0b7a","widgets":[{"identifier":"0ac8e7fc-a494-4a14-a26d-30105dad4167","type":"DancingGoat.LandingPage.ProductCardWidget","variants":[{"identifier":"f6f37383-7d92-4fa6-b442-3c3920d72d17","properties":{"selectedProducts":[{"nodeGuid":"4900a509-759b-44ea-aa5e-29422116d16a"}]}}]}]},{"identifier":"11d8efb0-d507-4bdb-8ad7-673b8b595d4c","widgets":[{"identifier":"9c68913f-9fc2-448a-8723-e4fe8892eff7","type":"DancingGoat.LandingPage.ProductCardWidget","variants":[{"identifier":"a6c4d71d-19c0-4bfa-8429-02c3d74fc392","properties":{"selectedProducts":[{"nodeGuid":"ec8aa1b1-a26a-4986-beb2-b76354beb961"}]}}]}]},{"identifier":"37605c0b-80d8-44e9-ac4f-2c3d6638473c","widgets":[{"identifier":"f844d409-fafe-4369-8eac-4b5db75ae5de","type":"DancingGoat.LandingPage.ProductCardWidget","variants":[{"identifier":"73dad0c8-aa1f-4259-b410-e47992831935","properties":{"selectedProducts":[{"nodeGuid":"473e9cf0-055a-44c3-bb5f-224ccfb13289"}]}}]}]}]},{"identifier":"ee47995d-9305-46ac-a823-aaf7a20e4c09","type":"DancingGoat.SingleColumnSection","properties":{"theme":null},"zones":[{"identifier":"b5492477-801c-48d8-a04e-cad7fffc40cd","widgets":[{"identifier":"fe0c9df4-475c-4e9f-9f49-42b4239bcf03","type":"DancingGoat.LandingPage.TestimonialWidget","variants":[{"identifier":"1d9c88f9-7509-417f-b80e-4b74f9122785","properties":{"quotationText":"Drinking Dancing Goat’s coffee samples has become a highlight of my week. Keep them coming please!","authorText":"Stacey McKenzie, coffee lover","colorCssClass":"first-color"}}]}]}]}]},{"identifier":"bottom","sections":[{"identifier":"86f34bd5-9bf1-4ef5-8a40-7a352a6dcc6a","type":"DancingGoat.SingleColumnSection","properties":{"theme":null},"zones":[{"identifier":"ebb33a33-b790-46b3-ba0c-d914362d3d2b","widgets":[{"identifier":"0e818112-899f-415a-be2d-0cd5f88e5b27","type":"Kentico.Widget.RichText","variants":[{"identifier":"28c20ffe-dda3-4bae-82a6-4d37b35e5e9d","properties":{"content":"<h2 style=\"text-align: center;\">Love great coffee? So do we.</h2>"}}]}]}]},{"identifier":"37dcb7db-c447-4d2e-96cf-3d121478a357","type":"DancingGoat.TwoColumnSection","properties":{"theme":null},"zones":[{"identifier":"d25a26fc-284c-4b69-bea7-0ed6603d8f91","widgets":[{"identifier":"de46e0fb-2713-4614-bfc6-d0e1ffdf1f12","type":"Kentico.FormWidget","variants":[{"identifier":"1fc56112-7dcf-4e4d-a931-c1c202fa8f91","properties":{"selectedForm":"DancingGoatMvcCoffeeSampleList"}}]}]},{"identifier":"91a76890-272b-46ee-813d-8a710ecf5e8a","widgets":[{"identifier":"dfa83c95-da66-48c6-897e-01788239ff9f","type":"Kentico.Widget.RichText","variants":[{"identifier":"92cadcc8-d091-41c3-ad17-936992584ce4","properties":{"content":"<h3>Join our list now and get weekly samples from your local cafe in our network.</h3><p>Sign up to get a coupon you can redeem at your nearest Dancing Goat cafe for a coffee sample. Different coffee sample will be waiting for you every week. We&#39;ll also make sure you don&#39;t miss out on news introducing the new coffees that we add to our store regularly.</p>"}}]}]}]}]}]}]]>
+  </DocumentPageBuilderWidgets>
+  <DocumentPageTemplateConfiguration>
+    <![CDATA[{"identifier":"DancingGoat.LandingPageSingleColumn","properties":{"showLogo":true,"headerColorCssClass":"first-color"}}]]>
+  </DocumentPageTemplateConfiguration>
+  <DocumentShowInMenu>False</DocumentShowInMenu>
+</cms.documentlocalization>

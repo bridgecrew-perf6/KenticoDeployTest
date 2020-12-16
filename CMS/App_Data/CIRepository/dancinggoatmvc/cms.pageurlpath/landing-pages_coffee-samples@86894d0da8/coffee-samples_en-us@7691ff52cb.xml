@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>en-US</PageUrlPathCulture>
+  <PageUrlPathGUID>526c4bd4-32b8-4c13-a800-1e3ea1ceab15</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Landing-pages/Coffee-samples</CodeName>
+    <GUID>3d9ae52e-c6d7-4d75-b98a-bf37ca19cf0b</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>Coffee-samples</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[A0DD1854ED4852477B20056D557B870627A52E4284C23087A2186597118EEA4B]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

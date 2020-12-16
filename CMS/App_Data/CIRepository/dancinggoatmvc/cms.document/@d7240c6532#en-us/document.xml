@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.documentlocalization>
+  <DocumentContent>
+    <content>
+      <webpart id="waa;045bd643-e11d-44fc-b68c-f3e5f9039678">
+        <![CDATA[The web site doesn&#39;t contain any content. Sign in to <a href="~/Admin/" title="Sign in to CMS Desk">Administration</a> and edit the content.]]>
+      </webpart>
+    </content>
+  </DocumentContent>
+  <DocumentCreatedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentCreatedByUserID>
+  <DocumentCreatedWhen>2015-08-06 13:46:19Z</DocumentCreatedWhen>
+  <DocumentCulture>en-US</DocumentCulture>
+  <DocumentCustomData />
+  <DocumentGUID>1b95beb6-f82c-4caf-86a4-46673bd8e5b3</DocumentGUID>
+  <DocumentModifiedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentModifiedByUserID>
+  <DocumentModifiedWhen>2019-09-18 10:34:04Z</DocumentModifiedWhen>
+  <DocumentName />
+  <DocumentNodeID>
+    <CodeName>/</CodeName>
+    <GUID>db472111-b6eb-49f9-b98a-53ff2a0bccf7</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </DocumentNodeID>
+  <DocumentSearchExcluded>False</DocumentSearchExcluded>
+  <DocumentShowInMenu>False</DocumentShowInMenu>
+  <DocumentTags />
+</cms.documentlocalization>

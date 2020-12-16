@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.manufacturer>
+  <ManufactureHomepage>http://www.mazzer.com/</ManufactureHomepage>
+  <ManufacturerDisplayName>Mazzer</ManufacturerDisplayName>
+  <ManufacturerEnabled>True</ManufacturerEnabled>
+  <ManufacturerGUID>aa77df2b-f647-4570-ae40-e080132f75f5</ManufacturerGUID>
+  <ManufacturerName>Mazzer</ManufacturerName>
+  <ManufacturerSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ManufacturerSiteID>
+</ecommerce.manufacturer>

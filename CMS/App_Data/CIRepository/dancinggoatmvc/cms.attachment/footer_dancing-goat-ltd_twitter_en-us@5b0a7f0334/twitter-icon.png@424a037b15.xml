@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.attachment>
+  <AttachmentDocumentID>
+    <CodeName>en-US</CodeName>
+    <GUID>a49f7453-376f-4d21-8db7-a4be5e2b13ab</GUID>
+    <ObjectType>cms.documentlocalization</ObjectType>
+    <Parent>
+      <CodeName>/Footer/Dancing-Goat-Ltd/Twitter</CodeName>
+      <GUID>8dd13de2-aec4-49ba-adea-d0b6e3238da9</GUID>
+      <ObjectType>cms.node</ObjectType>
+      <Site>
+        <CodeName>DancingGoatMvc</CodeName>
+        <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+        <ObjectType>cms.site</ObjectType>
+      </Site>
+    </Parent>
+  </AttachmentDocumentID>
+  <AttachmentExtension>.png</AttachmentExtension>
+  <AttachmentGUID>6c66dd5e-515a-4605-ae19-d4da99235ff5</AttachmentGUID>
+  <AttachmentImageHeight>45</AttachmentImageHeight>
+  <AttachmentImageWidth>45</AttachmentImageWidth>
+  <AttachmentMimeType>image/png</AttachmentMimeType>
+  <AttachmentName>twitter-icon.png</AttachmentName>
+  <AttachmentSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </AttachmentSiteID>
+  <AttachmentSize>1616</AttachmentSize>
+</cms.attachment>

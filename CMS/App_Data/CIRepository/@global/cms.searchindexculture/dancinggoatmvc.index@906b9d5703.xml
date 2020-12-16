@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.searchindexculture>
+  <Parent>
+    <CodeName>DancingGoatMvc.Index</CodeName>
+    <GUID>db67ab46-ddd7-45b7-a44f-70606d566440</GUID>
+    <ObjectType>cms.searchindex</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.culture_en-US">
+      <IndexCultureID>
+        <CodeName>en-US</CodeName>
+        <GUID>4c98fdfa-841b-431e-9bc8-9fc80800ee45</GUID>
+        <ObjectType>cms.culture</ObjectType>
+      </IndexCultureID>
+    </Binding>
+    <Binding id="cms.culture_es-ES">
+      <IndexCultureID>
+        <CodeName>es-ES</CodeName>
+        <GUID>61218e2e-2dc3-4a1c-9ac3-e40fb672e2f2</GUID>
+        <ObjectType>cms.culture</ObjectType>
+      </IndexCultureID>
+    </Binding>
+  </Bindings>
+</cms.searchindexculture>

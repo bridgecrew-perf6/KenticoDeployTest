@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.attachment>
+  <AttachmentDocumentID>
+    <CodeName>en-US</CodeName>
+    <GUID>acd847a0-748b-4921-be88-f2f0e438441c</GUID>
+    <ObjectType>cms.documentlocalization</ObjectType>
+    <Parent>
+      <CodeName>/About-Us/How-we-roast-our-coffees</CodeName>
+      <GUID>9c45c944-47b4-4a89-a3fd-20832d516f68</GUID>
+      <ObjectType>cms.node</ObjectType>
+      <Site>
+        <CodeName>DancingGoatMvc</CodeName>
+        <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+        <ObjectType>cms.site</ObjectType>
+      </Site>
+    </Parent>
+  </AttachmentDocumentID>
+  <AttachmentExtension>.jpg</AttachmentExtension>
+  <AttachmentGUID>0c9951bc-3788-416a-ae2a-54b24d935695</AttachmentGUID>
+  <AttachmentImageHeight>457</AttachmentImageHeight>
+  <AttachmentImageWidth>600</AttachmentImageWidth>
+  <AttachmentMimeType>image/jpeg</AttachmentMimeType>
+  <AttachmentName>roaster.jpg</AttachmentName>
+  <AttachmentSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </AttachmentSiteID>
+  <AttachmentSize>50240</AttachmentSize>
+</cms.attachment>

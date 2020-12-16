@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.manufacturer>
+  <ManufactureHomepage>http://aerobie.com/</ManufactureHomepage>
+  <ManufacturerDisplayName>Aerobie</ManufacturerDisplayName>
+  <ManufacturerEnabled>True</ManufacturerEnabled>
+  <ManufacturerGUID>2bd351ae-a0a4-4a36-9b8c-0be585212bb3</ManufacturerGUID>
+  <ManufacturerName>Aerobie</ManufacturerName>
+  <ManufacturerSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ManufacturerSiteID>
+</ecommerce.manufacturer>

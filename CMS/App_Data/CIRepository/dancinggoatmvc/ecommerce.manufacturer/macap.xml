@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.manufacturer>
+  <ManufactureHomepage>http://www.macap.it/</ManufactureHomepage>
+  <ManufacturerDisplayName>Macap</ManufacturerDisplayName>
+  <ManufacturerEnabled>True</ManufacturerEnabled>
+  <ManufacturerGUID>fdcbff9a-0b1d-4cdf-becf-fa26228c7a86</ManufacturerGUID>
+  <ManufacturerName>Macap</ManufacturerName>
+  <ManufacturerSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ManufacturerSiteID>
+</ecommerce.manufacturer>

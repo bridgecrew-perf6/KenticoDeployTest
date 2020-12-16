@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.couponcode>
+  <CouponCodeCode>BDAY_73UHV</CouponCodeCode>
+  <CouponCodeDiscountID>
+    <CodeName>DancingGoatMvc.5_BirthdayDiscount</CodeName>
+    <GUID>ff359609-449f-48b8-8188-4b37831b26e8</GUID>
+    <ObjectType>ecommerce.discount</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </CouponCodeDiscountID>
+  <CouponCodeGUID>a47aa846-8cee-4761-95e4-729ef1073463</CouponCodeGUID>
+</ecommerce.couponcode>

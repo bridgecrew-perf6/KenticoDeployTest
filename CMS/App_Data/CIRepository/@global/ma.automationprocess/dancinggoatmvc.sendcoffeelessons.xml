@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ma.automationprocess>
+  <WorkflowAllowedObjects>;om.contact;</WorkflowAllowedObjects>
+  <WorkflowAutoPublishChanges>False</WorkflowAutoPublishChanges>
+  <WorkflowDisplayName>
+    <![CDATA[Send 'Coffee 101' lessons (Dancing Goat MVC)]]>
+  </WorkflowDisplayName>
+  <WorkflowEnabled>False</WorkflowEnabled>
+  <WorkflowGUID>521a837e-22c6-455a-be66-390744d564a9</WorkflowGUID>
+  <WorkflowName>DancingGoatMvc.SendCoffeeLessons</WorkflowName>
+  <WorkflowRecurrenceType>2</WorkflowRecurrenceType>
+  <WorkflowSendApproveEmails>True</WorkflowSendApproveEmails>
+  <WorkflowSendArchiveEmails>True</WorkflowSendArchiveEmails>
+  <WorkflowSendPublishEmails>True</WorkflowSendPublishEmails>
+  <WorkflowSendReadyForApprovalEmails>True</WorkflowSendReadyForApprovalEmails>
+  <WorkflowSendRejectEmails>True</WorkflowSendRejectEmails>
+  <WorkflowType>3</WorkflowType>
+</ma.automationprocess>

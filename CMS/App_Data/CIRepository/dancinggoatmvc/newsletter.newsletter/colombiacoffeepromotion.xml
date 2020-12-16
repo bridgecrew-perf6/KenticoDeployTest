@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsletter.newsletter>
+  <NewsletterBaseUrl />
+  <NewsletterDisplayName>Colombia coffee promotion</NewsletterDisplayName>
+  <NewsletterDraftEmails />
+  <NewsletterEnableOptIn>False</NewsletterEnableOptIn>
+  <NewsletterGUID>77ad63f9-efad-48b8-b1db-9b384fd35a18</NewsletterGUID>
+  <NewsletterLogActivity>True</NewsletterLogActivity>
+  <NewsletterName>ColombiaCoffeePromotion</NewsletterName>
+  <NewsletterOptInApprovalURL />
+  <NewsletterSenderEmail>dancinggoat@localhost.local</NewsletterSenderEmail>
+  <NewsletterSenderName>Dancing Goat MVC</NewsletterSenderName>
+  <NewsletterSendOptInConfirmation>False</NewsletterSendOptInConfirmation>
+  <NewsletterSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </NewsletterSiteID>
+  <NewsletterSource>T</NewsletterSource>
+  <NewsletterTrackClickedLinks>True</NewsletterTrackClickedLinks>
+  <NewsletterTrackOpenEmails>True</NewsletterTrackOpenEmails>
+  <NewsletterType>1</NewsletterType>
+  <NewsletterUnsubscribeUrl />
+  <NewsletterUnsubscriptionTemplateID>
+    <CodeName>DancingGoatMvcUnsubscriptionConfirmation</CodeName>
+    <GUID>9a8a009d-8cbc-4052-b3c3-1275361b371b</GUID>
+    <ObjectType>newsletter.emailtemplate</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NewsletterUnsubscriptionTemplateID>
+</newsletter.newsletter>

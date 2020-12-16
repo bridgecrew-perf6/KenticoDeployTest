@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>en-US</PageUrlPathCulture>
+  <PageUrlPathGUID>d6efaca4-fed3-42b6-9552-4fc910e193dd</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Articles/On-Roasts</CodeName>
+    <GUID>88a3e166-fddd-4f59-af6e-86323355d953</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>Articles/On-Roasts</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[614B069651B41F2E55B724CA318B0939BA88F99DB23678F2F02B106354809FAA]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

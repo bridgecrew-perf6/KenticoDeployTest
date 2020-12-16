@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.relationshipname>
+  <RelationshipAllowedObjects>##DOCUMENTS##</RelationshipAllowedObjects>
+  <RelationshipDisplayName>Footer navigation (Navigation items)</RelationshipDisplayName>
+  <RelationshipGUID>3ef558b8-c11e-4814-aec4-3ccff7a2cbb9</RelationshipGUID>
+  <RelationshipName>
+    <![CDATA[DancingGoatMvc.FooterNavigation_d56f9beb-5623-43ab-8569-ce8c4bd02594]]>
+  </RelationshipName>
+  <RelationshipNameIsAdHoc>True</RelationshipNameIsAdHoc>
+</cms.relationshipname>

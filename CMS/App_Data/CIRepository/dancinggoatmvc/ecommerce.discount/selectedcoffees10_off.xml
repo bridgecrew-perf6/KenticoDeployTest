@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.discount>
+  <DiscountApplyFurtherDiscounts>True</DiscountApplyFurtherDiscounts>
+  <DiscountApplyTo>Products</DiscountApplyTo>
+  <DiscountCustomerRestriction>All</DiscountCustomerRestriction>
+  <DiscountDisplayName>Selected coffees 10% off</DiscountDisplayName>
+  <DiscountEnabled>True</DiscountEnabled>
+  <DiscountGUID>6f43ede8-7fd8-4231-a9a8-d1e64aea9cef</DiscountGUID>
+  <DiscountIsFlat>False</DiscountIsFlat>
+  <DiscountName>SelectedCoffees10_Off</DiscountName>
+  <DiscountOrder>1</DiscountOrder>
+  <DiscountProductCondition>
+    <![CDATA[{%Rule("( (SKU.SKUGUID.EqualsAny(\"688b2391-b42b-4a7f-b8e1-a66d63e54bb2;d67702af-ac0c-438d-b6e8-f12195bbc5df\".Split(\";\"))))", "<rules><r pos=\"0\" par=\"\" op=\"and\" n=\"ProductIsOneOf\" ><p n=\"_is\"><t>is</t><v></v><r>0</r><d>select operation</d><vt>text</vt><tv>0</tv></p><p n=\"products\"><t>Ethiopia Yirgacheffe (decaf) (2 lb)\nGuatemala Finca El Injerto (4 oz)</t><v>688b2391-b42b-4a7f-b8e1-a66d63e54bb2;d67702af-ac0c-438d-b6e8-f12195bbc5df</v><r>1</r><d>select products</d><vt>text</vt><tv>0</tv></p></r></rules>")|(identity)GlobalAdministrator|(hash)8bbb6c0547ad531b17a7a54d5b348210b7e62d69f7da226c08eca45aa9bac397%}]]>
+  </DiscountProductCondition>
+  <DiscountRoles />
+  <DiscountSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </DiscountSiteID>
+  <DiscountUsesCoupons>False</DiscountUsesCoupons>
+  <DiscountValue>10</DiscountValue>
+</ecommerce.discount>

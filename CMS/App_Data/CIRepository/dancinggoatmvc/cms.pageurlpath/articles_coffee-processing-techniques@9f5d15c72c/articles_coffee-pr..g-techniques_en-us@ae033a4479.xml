@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>en-US</PageUrlPathCulture>
+  <PageUrlPathGUID>05757450-1a36-4135-9532-790ef132130a</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Articles/Coffee-processing-techniques</CodeName>
+    <GUID>c3793d7a-cc6e-44b2-ab82-cbe8e2a86732</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>Articles/Coffee-processing-techniques</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[2717986A07429133A94F21F8CE5FEE09B0F7B49B2E444B569A8CAD3B739A901A]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

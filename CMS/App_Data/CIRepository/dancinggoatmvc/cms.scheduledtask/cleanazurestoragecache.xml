@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.scheduledtask>
+  <TaskAllowExternalService>False</TaskAllowExternalService>
+  <TaskAssemblyName>CMS.AzureStorage</TaskAssemblyName>
+  <TaskAvailability>1</TaskAvailability>
+  <TaskClass>CMS.AzureStorage.AzureStorageCacheCleaner</TaskClass>
+  <TaskCondition />
+  <TaskData />
+  <TaskDeleteAfterLastRun>False</TaskDeleteAfterLastRun>
+  <TaskDisplayName>Clean Azure storage cache</TaskDisplayName>
+  <TaskEnabled>True</TaskEnabled>
+  <TaskGUID>5d21743f-f6a8-4dd6-bba0-d4253b443713</TaskGUID>
+  <TaskInterval>
+    <![CDATA[day;1/1/2005 12:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday]]>
+  </TaskInterval>
+  <TaskName>CleanAzureStorageCache</TaskName>
+  <TaskRunIndividually>False</TaskRunIndividually>
+  <TaskRunInSeparateThread>False</TaskRunInSeparateThread>
+  <TaskServerName />
+  <TaskSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </TaskSiteID>
+  <TaskUseExternalService>False</TaskUseExternalService>
+</cms.scheduledtask>

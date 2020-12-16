@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.allowedchildclass>
+  <Parent>
+    <CodeName>DancingGoatMvc.AboutUsSection</CodeName>
+    <GUID>388166a3-4e5c-4dc6-a347-a7e91f35697a</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.documenttype_DancingGoatMvc.AboutUs">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.AboutUs</CodeName>
+        <GUID>bacb9223-3ebe-4697-803d-d885d5842ed3</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+  </Bindings>
+</cms.allowedchildclass>

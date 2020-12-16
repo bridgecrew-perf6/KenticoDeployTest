@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.allowedchildclass>
+  <Parent>
+    <CodeName>DancingGoatMvc.Brewer</CodeName>
+    <GUID>16df01b9-190c-4458-826e-0e466304c177</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.documenttype_CMS.Folder">
+      <ParentClassID>
+        <CodeName>CMS.Folder</CodeName>
+        <GUID>8fa3e50a-b5ef-48f1-b506-fad8f3f9e50a</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_DancingGoatMvc.Manufacturer">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.Manufacturer</CodeName>
+        <GUID>9e9ef9a5-04cc-4013-bd47-1a3ce63d66a5</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_DancingGoatMvc.ProductSection">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.ProductSection</CodeName>
+        <GUID>0289e869-6345-4c4f-b629-bbebf1e388e4</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+  </Bindings>
+</cms.allowedchildclass>

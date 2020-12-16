@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.optioncategory>
+  <CategoryDefaultOptions />
+  <CategoryDisplayName>Coffee package size</CategoryDisplayName>
+  <CategoryDisplayPrice>True</CategoryDisplayPrice>
+  <CategoryEnabled>True</CategoryEnabled>
+  <CategoryGUID>c3ae851a-cf5e-45d3-b717-8856b3a978e0</CategoryGUID>
+  <CategoryLiveSiteDisplayName>Package</CategoryLiveSiteDisplayName>
+  <CategoryName>CoffeePackageSize</CategoryName>
+  <CategorySelectionType>DROPDOWN</CategorySelectionType>
+  <CategorySiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </CategorySiteID>
+  <CategoryType>ATTRIBUTE</CategoryType>
+</ecommerce.optioncategory>

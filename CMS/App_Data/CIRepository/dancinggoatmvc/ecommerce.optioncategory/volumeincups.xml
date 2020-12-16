@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.optioncategory>
+  <CategoryDefaultOptions />
+  <CategoryDisplayName>Volume In Cups</CategoryDisplayName>
+  <CategoryDisplayPrice>True</CategoryDisplayPrice>
+  <CategoryEnabled>True</CategoryEnabled>
+  <CategoryGUID>043afef9-588c-4c18-a95f-b52919161fc4</CategoryGUID>
+  <CategoryLiveSiteDisplayName>Size</CategoryLiveSiteDisplayName>
+  <CategoryName>VolumeInCups</CategoryName>
+  <CategorySelectionType>DROPDOWN</CategorySelectionType>
+  <CategorySiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </CategorySiteID>
+  <CategoryType>ATTRIBUTE</CategoryType>
+</ecommerce.optioncategory>

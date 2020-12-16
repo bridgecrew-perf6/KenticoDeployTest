@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.discount>
+  <DiscountApplyFurtherDiscounts>True</DiscountApplyFurtherDiscounts>
+  <DiscountApplyTo>Products</DiscountApplyTo>
+  <DiscountCustomerRestriction>All</DiscountCustomerRestriction>
+  <DiscountDisplayName>Hario Vacuum Pot 10% off</DiscountDisplayName>
+  <DiscountEnabled>True</DiscountEnabled>
+  <DiscountGUID>db7ee559-89ba-4e36-ba34-4d43ffadf2c9</DiscountGUID>
+  <DiscountIsFlat>False</DiscountIsFlat>
+  <DiscountName>HarioVacuumDiscount</DiscountName>
+  <DiscountOrder>1</DiscountOrder>
+  <DiscountProductCondition>
+    <![CDATA[{%Rule("( (SKU.SKUGUID.EqualsAny(\"3e82c626-872d-4409-b4d9-39f5a383c424\".Split(\";\"))))", "<rules><r pos=\"0\" par=\"\" op=\"and\" n=\"ProductIsOneOf\" ><p n=\"products\"><t>Hario Vacuum Pot</t><v>3e82c626-872d-4409-b4d9-39f5a383c424</v><r>1</r><d>select products</d><vt>text</vt><tv>0</tv></p><p n=\"_is\"><t>is</t><v></v><r>0</r><d>select operation</d><vt>text</vt><tv>0</tv></p></r></rules>")|(identity)GlobalAdministrator|(hash)cd55576d7704327c7c758d62c7ee0a84ecb94f28b7b024a4ac969641f5842712%}]]>
+  </DiscountProductCondition>
+  <DiscountRoles />
+  <DiscountSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </DiscountSiteID>
+  <DiscountUsesCoupons>False</DiscountUsesCoupons>
+  <DiscountValue>10</DiscountValue>
+</ecommerce.discount>

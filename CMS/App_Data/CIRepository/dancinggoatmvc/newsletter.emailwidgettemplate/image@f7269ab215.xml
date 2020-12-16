@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsletter.emailwidgettemplate>
+  <Parent>
+    <CodeName>Image</CodeName>
+    <GUID>01be8a90-f6bf-4a8c-be2a-fff04dc8950c</GUID>
+    <ObjectType>newsletter.emailwidget</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </Parent>
+  <Bindings>
+    <Binding id="newsletter.emailtemplate_MvcDemoEmailTemplate3zones_cms.site_DancingGoatMvc">
+      <TemplateID>
+        <CodeName>MvcDemoEmailTemplate3zones</CodeName>
+        <GUID>8e0d3101-44fa-4f1f-88c8-2a72bfc8c0e2</GUID>
+        <ObjectType>newsletter.emailtemplate</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </TemplateID>
+    </Binding>
+    <Binding id="newsletter.emailtemplate_MvcDemoGeneralEmail_cms.site_DancingGoatMvc">
+      <TemplateID>
+        <CodeName>MvcDemoGeneralEmail</CodeName>
+        <GUID>18df7f69-0209-456e-ae8d-5aa75c7c71ca</GUID>
+        <ObjectType>newsletter.emailtemplate</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </TemplateID>
+    </Binding>
+  </Bindings>
+</newsletter.emailwidgettemplate>

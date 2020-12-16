@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<documentfields.dancinggoatmvc.cafe>
+  <CafeCity>Boston</CafeCity>
+  <CafeCountry>USA;Massachusetts</CafeCountry>
+  <CafeIsCompanyCafe>True</CafeIsCompanyCafe>
+  <CafeName>Boston</CafeName>
+  <CafePhone>617-824-9072</CafePhone>
+  <CafePhoto>875951df-fd06-47f7-95a8-70feaf9bc6d7</CafePhoto>
+  <CafeStreet>27 Bowdoin St</CafeStreet>
+  <CafeZipCode>02114</CafeZipCode>
+</documentfields.dancinggoatmvc.cafe>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.orderstatus>
+  <StatusColor>#bdbbbb</StatusColor>
+  <StatusDisplayName>Closed</StatusDisplayName>
+  <StatusEnabled>True</StatusEnabled>
+  <StatusGUID>3bd91922-4927-4684-937f-6e18d2a72931</StatusGUID>
+  <StatusName>Closed</StatusName>
+  <StatusOrder>7</StatusOrder>
+  <StatusOrderIsPaid>False</StatusOrderIsPaid>
+  <StatusSendNotification>False</StatusSendNotification>
+  <StatusSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </StatusSiteID>
+</ecommerce.orderstatus>

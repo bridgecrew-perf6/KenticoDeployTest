@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsletter.newsletter>
+  <NewsletterBaseUrl />
+  <NewsletterDisplayName>MVC Dancing goat newsletter</NewsletterDisplayName>
+  <NewsletterDraftEmails />
+  <NewsletterEnableOptIn>True</NewsletterEnableOptIn>
+  <NewsletterGUID>e7a9b7a7-2a1c-4f46-8a0c-814f3209481d</NewsletterGUID>
+  <NewsletterLogActivity>True</NewsletterLogActivity>
+  <NewsletterName>DancingGoatMvcNewsletter</NewsletterName>
+  <NewsletterOptInApprovalURL />
+  <NewsletterOptInTemplateID>
+    <CodeName>MvcDemoDoubleOpt-inActivationTemplate</CodeName>
+    <GUID>83e8920d-538e-4d63-8796-1c44672cfc5a</GUID>
+    <ObjectType>newsletter.emailtemplate</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NewsletterOptInTemplateID>
+  <NewsletterSenderEmail>zoey@dancinggoat.local</NewsletterSenderEmail>
+  <NewsletterSenderName>Zoey from Dancing Goat</NewsletterSenderName>
+  <NewsletterSendOptInConfirmation>False</NewsletterSendOptInConfirmation>
+  <NewsletterSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </NewsletterSiteID>
+  <NewsletterSource>T</NewsletterSource>
+  <NewsletterSubscriptionTemplateID>
+    <CodeName>DancingGoatMvcSubscriptionConfirmation</CodeName>
+    <GUID>34d280d9-4712-4932-863f-6b5a9e9ca1ab</GUID>
+    <ObjectType>newsletter.emailtemplate</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NewsletterSubscriptionTemplateID>
+  <NewsletterTrackClickedLinks>True</NewsletterTrackClickedLinks>
+  <NewsletterTrackOpenEmails>True</NewsletterTrackOpenEmails>
+  <NewsletterType>0</NewsletterType>
+  <NewsletterUnsubscribeUrl />
+  <NewsletterUnsubscriptionTemplateID>
+    <CodeName>DancingGoatMvcUnsubscriptionConfirmation</CodeName>
+    <GUID>9a8a009d-8cbc-4052-b3c3-1275361b371b</GUID>
+    <ObjectType>newsletter.emailtemplate</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NewsletterUnsubscriptionTemplateID>
+</newsletter.newsletter>

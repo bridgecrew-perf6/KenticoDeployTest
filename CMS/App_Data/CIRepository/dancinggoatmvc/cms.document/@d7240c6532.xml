@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for / -->
+<cms.node>
+  <NodeACLID>
+    <GUID>f302cf1b-59b5-4ceb-b1c0-348fbc653fbb</GUID>
+    <ObjectType>cms.acl</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </NodeACLID>
+  <NodeAlias />
+  <NodeClassID>
+    <CodeName>CMS.Root</CodeName>
+    <GUID>a585aea3-10b5-4b74-9aad-747fcce72493</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </NodeClassID>
+  <NodeCustomData />
+  <NodeGUID>db472111-b6eb-49f9-b98a-53ff2a0bccf7</NodeGUID>
+  <NodeIsACLOwner>True</NodeIsACLOwner>
+  <NodeName />
+  <NodeOrder>33</NodeOrder>
+  <NodeOwner>
+    <CodeName>public</CodeName>
+    <GUID>3758b9b5-045c-4b7d-b020-80f9b068d990</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </NodeOwner>
+  <NodeSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </NodeSiteID>
+</cms.node>

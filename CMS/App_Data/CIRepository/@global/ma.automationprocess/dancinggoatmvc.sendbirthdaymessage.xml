@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ma.automationprocess>
+  <WorkflowDisplayName>Send birthday message (Dancing Goat MVC)</WorkflowDisplayName>
+  <WorkflowEnabled>False</WorkflowEnabled>
+  <WorkflowGUID>5b8a4ceb-9c19-4036-bc5c-9c98b65f35e7</WorkflowGUID>
+  <WorkflowName>DancingGoatMvc.SendBirthdayMessage</WorkflowName>
+  <WorkflowRecurrenceType>1</WorkflowRecurrenceType>
+  <WorkflowType>3</WorkflowType>
+</ma.automationprocess>

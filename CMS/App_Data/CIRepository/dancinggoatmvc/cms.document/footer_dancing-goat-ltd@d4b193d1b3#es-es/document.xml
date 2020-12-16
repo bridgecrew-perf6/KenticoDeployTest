@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for Dancing Goat Ltd -->
+<cms.documentlocalization>
+  <DocumentContent />
+  <DocumentCreatedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentCreatedByUserID>
+  <DocumentCreatedWhen>2015-08-14 13:11:56Z</DocumentCreatedWhen>
+  <DocumentCulture>es-ES</DocumentCulture>
+  <DocumentGUID>fadb4add-e03f-4f6d-9ae0-ddc7ee68b857</DocumentGUID>
+  <DocumentModifiedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentModifiedByUserID>
+  <DocumentModifiedWhen>2015-08-14 13:11:56Z</DocumentModifiedWhen>
+  <DocumentName>Dancing Goat Ltd</DocumentName>
+  <DocumentNodeID>
+    <CodeName>/Footer/Dancing-Goat-Ltd</CodeName>
+    <GUID>c21b58e2-af33-4c6e-865a-a24e2bf626ad</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </DocumentNodeID>
+  <DocumentShowInMenu>False</DocumentShowInMenu>
+</cms.documentlocalization>

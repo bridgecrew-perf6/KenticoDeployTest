@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.adhocrelationship>
+  <Parent>
+    <CodeName>/Articles/Which-brewing-fits-you</CodeName>
+    <GUID>414de8c9-22e6-4d5d-89a1-2b8f7581aebc</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.node_/Articles/Coffee-processing-techniques_cms.site_DancingGoatMvc-cms.relationshipname_DancingGoatMvc.Article_1415dcbe-42f8-460b-91b9-12e52695622f">
+      <RelationshipIsAdHoc>True</RelationshipIsAdHoc>
+      <RelationshipNameID>
+        <CodeName>DancingGoatMvc.Article_1415dcbe-42f8-460b-91b9-12e52695622f</CodeName>
+        <GUID>7e6980cf-db00-4fb6-8242-9f28d6d21b42</GUID>
+        <ObjectType>cms.relationshipname</ObjectType>
+      </RelationshipNameID>
+      <RelationshipOrder>1</RelationshipOrder>
+      <RightNodeID>
+        <CodeName>/Articles/Coffee-processing-techniques</CodeName>
+        <GUID>c3793d7a-cc6e-44b2-ab82-cbe8e2a86732</GUID>
+        <ObjectType>cms.node</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </RightNodeID>
+    </Binding>
+    <Binding id="cms.node_/Articles/On-Roasts_cms.site_DancingGoatMvc-cms.relationshipname_DancingGoatMvc.Article_1415dcbe-42f8-460b-91b9-12e52695622f">
+      <RelationshipIsAdHoc>True</RelationshipIsAdHoc>
+      <RelationshipNameID>
+        <CodeName>DancingGoatMvc.Article_1415dcbe-42f8-460b-91b9-12e52695622f</CodeName>
+        <GUID>7e6980cf-db00-4fb6-8242-9f28d6d21b42</GUID>
+        <ObjectType>cms.relationshipname</ObjectType>
+      </RelationshipNameID>
+      <RelationshipOrder>2</RelationshipOrder>
+      <RightNodeID>
+        <CodeName>/Articles/On-Roasts</CodeName>
+        <GUID>88a3e166-fddd-4f59-af6e-86323355d953</GUID>
+        <ObjectType>cms.node</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </RightNodeID>
+    </Binding>
+  </Bindings>
+</cms.adhocrelationship>

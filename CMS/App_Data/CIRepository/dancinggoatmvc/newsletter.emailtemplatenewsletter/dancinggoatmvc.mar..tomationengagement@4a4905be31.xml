@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsletter.emailtemplatenewsletter>
+  <Parent>
+    <CodeName>DancingGoatMvc.MarketingAutomationEngagement</CodeName>
+    <GUID>68c2d446-b320-4bda-b63c-cf44f8960cf3</GUID>
+    <ObjectType>newsletter.newsletter</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </Parent>
+  <Bindings>
+    <Binding id="newsletter.emailtemplate_MvcDemoGeneralEmail_cms.site_DancingGoatMvc">
+      <TemplateID>
+        <CodeName>MvcDemoGeneralEmail</CodeName>
+        <GUID>18df7f69-0209-456e-ae8d-5aa75c7c71ca</GUID>
+        <ObjectType>newsletter.emailtemplate</ObjectType>
+        <Site>
+          <CodeName>DancingGoatMvc</CodeName>
+          <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+          <ObjectType>cms.site</ObjectType>
+        </Site>
+      </TemplateID>
+    </Binding>
+  </Bindings>
+</newsletter.emailtemplatenewsletter>

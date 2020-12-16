@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.manufacturer>
+  <ManufactureHomepage>http://espro.ca/</ManufactureHomepage>
+  <ManufacturerDisplayName>Espro</ManufacturerDisplayName>
+  <ManufacturerEnabled>True</ManufacturerEnabled>
+  <ManufacturerGUID>2fc447e2-53d3-4ea8-bb55-2d09aeecb407</ManufacturerGUID>
+  <ManufacturerName>Espro</ManufacturerName>
+  <ManufacturerSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ManufacturerSiteID>
+</ecommerce.manufacturer>

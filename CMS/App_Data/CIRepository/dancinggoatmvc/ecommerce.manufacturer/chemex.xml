@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.manufacturer>
+  <ManufactureHomepage>http://www.chemexcoffeemaker.com/</ManufactureHomepage>
+  <ManufacturerDisplayName>Chemex</ManufacturerDisplayName>
+  <ManufacturerEnabled>True</ManufacturerEnabled>
+  <ManufacturerGUID>be11aa19-f544-4a4b-9dee-7793293ecad8</ManufacturerGUID>
+  <ManufacturerName>Chemex</ManufacturerName>
+  <ManufacturerSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ManufacturerSiteID>
+</ecommerce.manufacturer>

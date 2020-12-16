@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.allowedchildclass>
+  <Parent>
+    <CodeName>DancingGoatMvc.SocialLink</CodeName>
+    <GUID>9b04ebee-2f97-48e8-aa9b-72fcfeaa80ca</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.documenttype_DancingGoatMvc.Contact">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.Contact</CodeName>
+        <GUID>6d0f135a-b13e-45b0-b13a-78ac943454de</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+  </Bindings>
+</cms.allowedchildclass>

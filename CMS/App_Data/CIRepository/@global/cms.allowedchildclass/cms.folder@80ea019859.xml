@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.allowedchildclass>
+  <Parent>
+    <CodeName>CMS.Folder</CodeName>
+    <GUID>8fa3e50a-b5ef-48f1-b506-fad8f3f9e50a</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.documenttype_CMS.Folder">
+      <ParentClassID>
+        <CodeName>CMS.Folder</CodeName>
+        <GUID>8fa3e50a-b5ef-48f1-b506-fad8f3f9e50a</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_CMS.Root">
+      <ParentClassID>
+        <CodeName>CMS.Root</CodeName>
+        <GUID>a585aea3-10b5-4b74-9aad-747fcce72493</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_DancingGoatMvc.AboutUs">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.AboutUs</CodeName>
+        <GUID>bacb9223-3ebe-4697-803d-d885d5842ed3</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_DancingGoatMvc.ArticleSection">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.ArticleSection</CodeName>
+        <GUID>991f1105-cd6e-48c7-862d-765172bed2e8</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_DancingGoatMvc.Home">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.Home</CodeName>
+        <GUID>8d3a39bb-43f1-400b-96d4-bf5deb570fca</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+    <Binding id="cms.documenttype_DancingGoatMvc.StoreSection">
+      <ParentClassID>
+        <CodeName>DancingGoatMvc.StoreSection</CodeName>
+        <GUID>d0cfd2a3-eb6c-44d7-be3c-990ccdf3070a</GUID>
+        <ObjectType>cms.documenttype</ObjectType>
+      </ParentClassID>
+    </Binding>
+  </Bindings>
+</cms.allowedchildclass>

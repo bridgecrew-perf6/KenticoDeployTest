@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.workflowtransition>
+  <Parent>
+    <CodeName>start</CodeName>
+    <GUID>78ffed85-9015-4fb0-8e39-3a1d574d9337</GUID>
+    <ObjectType>ma.automationstep</ObjectType>
+    <Parent>
+      <CodeName>DancingGoatMvc.SendCoffeeLessons</CodeName>
+      <GUID>521a837e-22c6-455a-be66-390744d564a9</GUID>
+      <ObjectType>ma.automationprocess</ObjectType>
+    </Parent>
+  </Parent>
+  <Bindings>
+    <Binding id="ma.automationstep_Wait_1_ma.automationprocess_DancingGoatMvc.SendCoffeeLessons">
+      <TransitionEndStepID>
+        <CodeName>Wait_1</CodeName>
+        <GUID>b50a66db-3034-48e3-91db-347be60620b7</GUID>
+        <ObjectType>ma.automationstep</ObjectType>
+        <Parent>
+          <CodeName>DancingGoatMvc.SendCoffeeLessons</CodeName>
+          <GUID>521a837e-22c6-455a-be66-390744d564a9</GUID>
+          <ObjectType>ma.automationprocess</ObjectType>
+        </Parent>
+      </TransitionEndStepID>
+      <TransitionSourcePointGUID>f2f788ba-35e0-4bbb-816b-b65ecf548c5e</TransitionSourcePointGUID>
+      <TransitionType>1</TransitionType>
+      <TransitionWorkflowID>
+        <CodeName>DancingGoatMvc.SendCoffeeLessons</CodeName>
+        <GUID>521a837e-22c6-455a-be66-390744d564a9</GUID>
+        <ObjectType>ma.automationprocess</ObjectType>
+      </TransitionWorkflowID>
+    </Binding>
+  </Bindings>
+</cms.workflowtransition>

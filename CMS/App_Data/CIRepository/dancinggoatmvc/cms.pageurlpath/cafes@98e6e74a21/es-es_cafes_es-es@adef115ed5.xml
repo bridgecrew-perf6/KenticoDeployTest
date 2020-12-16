@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>es-ES</PageUrlPathCulture>
+  <PageUrlPathGUID>0277c924-ad18-4152-862e-8c9949db7a36</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Cafes</CodeName>
+    <GUID>7713e7ff-a12a-4ed3-aa4a-cf358cb72ffe</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>es-ES/Cafes</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[58A78FC2A79D80F680A2249CA9C99CEA09C23DF957E69B44AA18D817ECCF21A2]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

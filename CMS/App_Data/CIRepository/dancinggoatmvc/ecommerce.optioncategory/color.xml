@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.optioncategory>
+  <CategoryDefaultRecord>(Please select)</CategoryDefaultRecord>
+  <CategoryDisplayName>Color</CategoryDisplayName>
+  <CategoryDisplayPrice>True</CategoryDisplayPrice>
+  <CategoryEnabled>True</CategoryEnabled>
+  <CategoryGUID>eda41f07-af85-4092-b8ab-ad92cb7289da</CategoryGUID>
+  <CategoryLiveSiteDisplayName>Color</CategoryLiveSiteDisplayName>
+  <CategoryName>Color</CategoryName>
+  <CategorySelectionType>RADIOBUTTONVERTICAL</CategorySelectionType>
+  <CategorySiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </CategorySiteID>
+  <CategoryType>ATTRIBUTE</CategoryType>
+</ecommerce.optioncategory>

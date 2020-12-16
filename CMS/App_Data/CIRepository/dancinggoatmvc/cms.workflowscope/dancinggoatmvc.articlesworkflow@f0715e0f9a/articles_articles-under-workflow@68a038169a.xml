@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.workflowscope>
+  <ScopeClassID>
+    <CodeName>DancingGoatMvc.Article</CodeName>
+    <GUID>2f68e820-9c9d-4442-8f09-ee75857f5935</GUID>
+    <ObjectType>cms.documenttype</ObjectType>
+  </ScopeClassID>
+  <ScopeExcludeChildren>False</ScopeExcludeChildren>
+  <ScopeExcluded>False</ScopeExcluded>
+  <ScopeGUID>d410fbe1-bb7f-40c1-b565-5cf7560e6491</ScopeGUID>
+  <ScopeSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </ScopeSiteID>
+  <ScopeStartingPath>/Articles/Articles-under-workflow</ScopeStartingPath>
+  <ScopeWorkflowID>
+    <CodeName>DancingGoatMvc.ArticlesWorkflow</CodeName>
+    <GUID>6204da94-b880-4b10-8858-89caf3ef7289</GUID>
+    <ObjectType>cms.workflow</ObjectType>
+  </ScopeWorkflowID>
+</cms.workflowscope>

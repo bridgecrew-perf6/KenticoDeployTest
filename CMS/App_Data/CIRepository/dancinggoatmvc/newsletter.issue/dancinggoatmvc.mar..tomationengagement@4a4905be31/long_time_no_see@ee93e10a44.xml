@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsletter.issue>
+  <IssueDisplayName>Long time no see</IssueDisplayName>
+  <IssueForAutomation>True</IssueForAutomation>
+  <IssueGUID>aa552e34-0d65-4407-ad40-bc955d1a3ff0</IssueGUID>
+  <IssueNewsletterID>
+    <CodeName>DancingGoatMvc.MarketingAutomationEngagement</CodeName>
+    <GUID>68c2d446-b320-4bda-b63c-cf44f8960cf3</GUID>
+    <ObjectType>newsletter.newsletter</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </IssueNewsletterID>
+  <IssueSenderEmail>dancinggoat@localhost.local</IssueSenderEmail>
+  <IssueSenderName>Dancing Goat</IssueSenderName>
+  <IssueSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </IssueSiteID>
+  <IssueSubject>Long time no see</IssueSubject>
+  <IssueTemplateID>
+    <CodeName>MvcDemoGeneralEmail</CodeName>
+    <GUID>18df7f69-0209-456e-ae8d-5aa75c7c71ca</GUID>
+    <ObjectType>newsletter.emailtemplate</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </IssueTemplateID>
+  <IssueText />
+  <IssueUseUTM>False</IssueUseUTM>
+  <IssueWidgets>
+    <Configuration xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+      <Zones>
+        <Zone>
+          <Identifier>zone1</Identifier>
+          <Widgets>
+            <Widget>
+              <Identifier>3dee4e6c-08ba-4024-a197-89a245c76fa9</Identifier>
+              <TypeIdentifier>12077b33-fe01-418b-87e2-0e7c1a386b3a</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[Hello {% Recipient.FirstName |(identity)GlobalAdministrator|(hash)b69be20468c8aa4022b8a83a69dd543aca88542187be919eeb867cdd1c7e0cbf%},]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>81dc4800-90c8-41e0-89cb-203e227f91f5</Identifier>
+              <TypeIdentifier>a33d5b78-5a4a-449c-8f16-7337ffbaaf37</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+<![CDATA[
+We&#39;ve noticed that you haven&#39;t visited our site in quite some time. We miss you!<br />
+&nbsp;
+]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>3da28de7-3f14-4715-ad2a-4850f273f4a5</Identifier>
+              <TypeIdentifier>95d7ae68-ea58-4daa-9623-056233988d22</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>Take me to the Dancing Goat site</Value>
+                </Property>
+                <Property>
+                  <Name>Link</Name>
+                  <Value>~/</Value>
+                </Property>
+                <Property>
+                  <Name>Color</Name>
+                  <Value>#b24143</Value>
+                </Property>
+                <Property>
+                  <Name>UTMContent</Name>
+                  <Value />
+                </Property>
+                <Property>
+                  <Name>Personas</Name>
+                  <Value />
+                </Property>
+              </Properties>
+            </Widget>
+          </Widgets>
+        </Zone>
+        <Zone>
+          <Identifier>zone2</Identifier>
+          <Widgets>
+            <Widget>
+              <Identifier>9625f25c-b15e-4379-af9b-1621fc67ccf6</Identifier>
+              <TypeIdentifier>a33d5b78-5a4a-449c-8f16-7337ffbaaf37</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>
+                    <![CDATA[If there&#39;s a particular reason for your absence that we can fix, please let us now. We&#39;re open to all kinds of feedback and willing to improve our content and services.]]>
+                  </Value>
+                </Property>
+              </Properties>
+            </Widget>
+            <Widget>
+              <Identifier>4c7fd507-64e0-457b-99e3-8e184d737a50</Identifier>
+              <TypeIdentifier>95d7ae68-ea58-4daa-9623-056233988d22</TypeIdentifier>
+              <Properties>
+                <Property>
+                  <Name>Text</Name>
+                  <Value>Contact us</Value>
+                </Property>
+                <Property>
+                  <Name>Link</Name>
+                  <Value>~/contacts/</Value>
+                </Property>
+                <Property>
+                  <Name>Color</Name>
+                  <Value>#256f9c</Value>
+                </Property>
+                <Property>
+                  <Name>UTMContent</Name>
+                  <Value />
+                </Property>
+                <Property>
+                  <Name>Personas</Name>
+                  <Value />
+                </Property>
+              </Properties>
+            </Widget>
+          </Widgets>
+        </Zone>
+      </Zones>
+    </Configuration>
+  </IssueWidgets>
+</newsletter.issue>

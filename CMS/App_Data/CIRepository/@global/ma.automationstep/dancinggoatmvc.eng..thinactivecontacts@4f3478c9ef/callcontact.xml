@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ma.automationstep>
+  <StepActionParameters />
+  <StepDefinition>
+    <Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <TimeoutEnabled>false</TimeoutEnabled>
+      <TimeoutInterval />
+      <TimeoutTarget>00000000-0000-0000-0000-000000000000</TimeoutTarget>
+      <SourcePoints>
+        <SourcePoint Guid="6b1c943a-9a04-4692-8ac4-6ab5775f8abf">
+          <Label>Default</Label>
+          <Text />
+          <Tooltip />
+          <Condition />
+          <Type>0</Type>
+          <StepRolesSecurity>0</StepRolesSecurity>
+          <StepUsersSecurity>0</StepUsersSecurity>
+        </SourcePoint>
+      </SourcePoints>
+      <Position>
+        <X>2520</X>
+        <Y>650</Y>
+      </Position>
+    </Step>
+  </StepDefinition>
+  <StepDisplayName>Call contact</StepDisplayName>
+  <StepGUID>45d8aaee-5ee7-470b-95ea-6aee2f9525b4</StepGUID>
+  <StepName>CallContact</StepName>
+  <StepRolesSecurity>0</StepRolesSecurity>
+  <StepType>3</StepType>
+  <StepUsersSecurity>0</StepUsersSecurity>
+  <StepWorkflowID>
+    <CodeName>DancingGoatMvc.EngageWithInactiveContacts</CodeName>
+    <GUID>5fc41baf-a73b-4a3c-b6a4-501806e392c0</GUID>
+    <ObjectType>ma.automationprocess</ObjectType>
+  </StepWorkflowID>
+  <StepWorkflowType>3</StepWorkflowType>
+</ma.automationstep>

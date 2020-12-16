@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a CI serialization file for AeroPress -->
+<cms.documentlocalization>
+  <DocumentContent />
+  <DocumentCreatedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentCreatedByUserID>
+  <DocumentCreatedWhen>2016-03-15 12:31:54Z</DocumentCreatedWhen>
+  <DocumentCulture>en-US</DocumentCulture>
+  <DocumentGUID>befba1cf-1fee-4b23-b542-afd8103ab468</DocumentGUID>
+  <DocumentModifiedByUserID>
+    <CodeName>administrator</CodeName>
+    <GUID>6415b8ce-8072-4bcd-8e48-9d7178b826b7</GUID>
+    <ObjectType>cms.user</ObjectType>
+  </DocumentModifiedByUserID>
+  <DocumentModifiedWhen>2020-12-15 10:35:25Z</DocumentModifiedWhen>
+  <DocumentName>AeroPress</DocumentName>
+  <DocumentNodeID>
+    <CodeName>/Store/Brewers/AeroPress</CodeName>
+    <GUID>11b143da-c57a-446b-9e4c-b77a8d5733d6</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </DocumentNodeID>
+  <DocumentShowInMenu>False</DocumentShowInMenu>
+  <DocumentSKUDescription>
+<![CDATA[
+<p>Presenting a coffee-making revolution, the AeroPress Coffee Maker.</p>
+
+<p>Affordable and straightforward for producing top notch coffee with. If you enjoy delicious and smooth coffee, you&#39;ve come to the right place. With the innovative AeroPress, you&#39;ll be enjoying your perfect cup in no time.</p>
+
+<p>Using this device, you&#39;ll be amazed at how good your coffee can taste. Its ease of use will amaze you even more. Coffee making with the versatile brewing technique offered by AeroPress. Any kind of coffee, from any part of the world will taste its best when combined with AeroPress. If you just want to enjoy the perfect quick cup, or you enjoy tinkering with the delicacies of coffee brewing, the AeroPress Coffee Maker will hit the spot!</p>
+
+<p>Each AeroPress comes with a pack of filters included in the box.</p>
+
+]]>
+  </DocumentSKUDescription>
+  <DocumentSKUName>AeroPress</DocumentSKUName>
+  <DocumentSKUShortDescription>
+<![CDATA[
+<p>AeroPress presents this coffee-making revolution which is affordable and makes delicious and smooth coffee.</p>
+
+]]>
+  </DocumentSKUShortDescription>
+</cms.documentlocalization>

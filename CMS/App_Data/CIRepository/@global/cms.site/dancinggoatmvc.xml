@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.site>
+  <SiteDescription>MVC demo web site</SiteDescription>
+  <SiteDisplayName>DancingGoatMvc</SiteDisplayName>
+  <SiteDomainName>localhost:3344</SiteDomainName>
+  <SiteGUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</SiteGUID>
+  <SiteName>DancingGoatMvc</SiteName>
+  <SitePresentationURL>http://localhost:3345</SitePresentationURL>
+</cms.site>

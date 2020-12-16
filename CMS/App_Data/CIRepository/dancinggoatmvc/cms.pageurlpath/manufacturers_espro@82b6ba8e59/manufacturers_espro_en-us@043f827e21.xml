@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>en-US</PageUrlPathCulture>
+  <PageUrlPathGUID>66a5c7de-53ce-4fcf-a9a4-b5a51712f44f</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Manufacturers/Espro</CodeName>
+    <GUID>1fe9efbf-51b9-47f0-9356-d0876520782c</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>Manufacturers/Espro</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[AA770CC5506888F7F0EF56059254E2AD37A9E6109DD49B56E039BB8AF95DE61E]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

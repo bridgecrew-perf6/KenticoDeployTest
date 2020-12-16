@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.shippingcost>
+  <ShippingCostGUID>6e0f57c0-d7f9-45af-945e-df18d2842dc7</ShippingCostGUID>
+  <ShippingCostMinWeight>0</ShippingCostMinWeight>
+  <ShippingCostShippingOptionID>
+    <CodeName>DancingGoatMvc.StandardDelivery</CodeName>
+    <GUID>4e68a340-0d67-476e-8c8d-5eaed5d9598a</GUID>
+    <ObjectType>ecommerce.shippingoption</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </ShippingCostShippingOptionID>
+  <ShippingCostValue>2.9</ShippingCostValue>
+</ecommerce.shippingcost>

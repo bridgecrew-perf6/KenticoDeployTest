@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ma.automationstep>
+  <StepActionID>
+    <CodeName>Send_newsletter_issue</CodeName>
+    <GUID>b33d5c68-235d-406e-89d7-4f1714078940</GUID>
+    <ObjectType>ma.automationaction</ObjectType>
+  </StepActionID>
+  <StepActionParameters>
+    <Parameters>
+      <Newsletter>68c2d446-b320-4bda-b63c-cf44f8960cf3</Newsletter>
+      <NewsletterIssue>aa552e34-0d65-4407-ad40-bc955d1a3ff0</NewsletterIssue>
+      <Site>DancingGoatMvc</Site>
+    </Parameters>
+  </StepActionParameters>
+  <StepDefinition>
+    <Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <TimeoutEnabled>false</TimeoutEnabled>
+      <TimeoutTarget>00000000-0000-0000-0000-000000000000</TimeoutTarget>
+      <SourcePoints>
+        <SourcePoint Guid="37d56b2d-8372-4557-ad30-6e32de27a83d">
+          <Label>Default</Label>
+          <Type>0</Type>
+          <StepRolesSecurity>0</StepRolesSecurity>
+          <StepUsersSecurity>0</StepUsersSecurity>
+        </SourcePoint>
+      </SourcePoints>
+      <Position>
+        <X>2750</X>
+        <Y>480</Y>
+      </Position>
+    </Step>
+  </StepDefinition>
+  <StepDisplayName>Send re-engagement email</StepDisplayName>
+  <StepGUID>c1f2423a-e334-4637-ad99-9335a7ab6362</StepGUID>
+  <StepName>SendRe-engagementEmail</StepName>
+  <StepRolesSecurity>0</StepRolesSecurity>
+  <StepType>11</StepType>
+  <StepUsersSecurity>0</StepUsersSecurity>
+  <StepWorkflowID>
+    <CodeName>DancingGoatMvc.EngageWithInactiveContacts</CodeName>
+    <GUID>5fc41baf-a73b-4a3c-b6a4-501806e392c0</GUID>
+    <ObjectType>ma.automationprocess</ObjectType>
+  </StepWorkflowID>
+  <StepWorkflowType>3</StepWorkflowType>
+</ma.automationstep>

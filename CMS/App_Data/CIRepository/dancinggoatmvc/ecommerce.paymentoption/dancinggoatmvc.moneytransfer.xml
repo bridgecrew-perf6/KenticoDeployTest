@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.paymentoption>
+  <PaymentOptionAllowIfNoShipping>True</PaymentOptionAllowIfNoShipping>
+  <PaymentOptionClassName />
+  <PaymentOptionDisplayName>Money transfer</PaymentOptionDisplayName>
+  <PaymentOptionEnabled>True</PaymentOptionEnabled>
+  <PaymentOptionFailedOrderStatusID>
+    <CodeName>PaymentFailed</CodeName>
+    <GUID>80af561b-37ae-497f-8ff1-a7142193ed1b</GUID>
+    <ObjectType>ecommerce.orderstatus</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PaymentOptionFailedOrderStatusID>
+  <PaymentOptionGUID>f8b913d6-c75b-4e61-ade9-492723b1d6b9</PaymentOptionGUID>
+  <PaymentOptionName>DancingGoatMVC.MoneyTransfer</PaymentOptionName>
+  <PaymentOptionSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PaymentOptionSiteID>
+  <PaymentOptionSucceededOrderStatusID>
+    <CodeName>PaymentReceived</CodeName>
+    <GUID>c19f4184-145f-459f-a129-a23a958d94c9</GUID>
+    <ObjectType>ecommerce.orderstatus</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PaymentOptionSucceededOrderStatusID>
+</ecommerce.paymentoption>

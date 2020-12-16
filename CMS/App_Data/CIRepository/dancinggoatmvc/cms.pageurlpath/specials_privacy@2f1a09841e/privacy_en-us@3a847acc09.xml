@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.pageurlpath>
+  <PageUrlPathCulture>en-US</PageUrlPathCulture>
+  <PageUrlPathGUID>86def2c8-1650-4179-b2dd-e1c01f70a2b8</PageUrlPathGUID>
+  <PageUrlPathNodeID>
+    <CodeName>/Specials/Privacy</CodeName>
+    <GUID>395787b0-6b8a-441d-a923-ee29a74abe63</GUID>
+    <ObjectType>cms.node</ObjectType>
+    <Site>
+      <CodeName>DancingGoatMvc</CodeName>
+      <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+      <ObjectType>cms.site</ObjectType>
+    </Site>
+  </PageUrlPathNodeID>
+  <PageUrlPathSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </PageUrlPathSiteID>
+  <PageUrlPathUrlPath>Privacy</PageUrlPathUrlPath>
+  <PageUrlPathUrlPathHash>
+    <![CDATA[2C660F39F372808F1902044A8A98CB4DEF4DB7E0FB66BB00AFDB344C39A8DDAA]]>
+  </PageUrlPathUrlPathHash>
+</cms.pageurlpath>

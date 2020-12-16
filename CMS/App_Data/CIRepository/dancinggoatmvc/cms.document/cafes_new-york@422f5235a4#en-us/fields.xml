@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<documentfields.dancinggoatmvc.cafe>
+  <CafeCity>New York</CafeCity>
+  <CafeCountry>USA;NewYork</CafeCountry>
+  <CafeIsCompanyCafe>True</CafeIsCompanyCafe>
+  <CafeName>New York</CafeName>
+  <CafePhone>646-555-0150</CafePhone>
+  <CafePhoto>4aaffcc5-832e-4d93-938b-578debc6348d</CafePhoto>
+  <CafeStreet>328 W 29th St</CafeStreet>
+  <CafeZipCode>10001</CafeZipCode>
+</documentfields.dancinggoatmvc.cafe>

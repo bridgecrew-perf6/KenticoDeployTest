@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.orderstatus>
+  <StatusColor>#b12628</StatusColor>
+  <StatusDisplayName>Payment failed</StatusDisplayName>
+  <StatusEnabled>True</StatusEnabled>
+  <StatusGUID>80af561b-37ae-497f-8ff1-a7142193ed1b</StatusGUID>
+  <StatusName>PaymentFailed</StatusName>
+  <StatusOrder>3</StatusOrder>
+  <StatusOrderIsPaid>False</StatusOrderIsPaid>
+  <StatusSendNotification>True</StatusSendNotification>
+  <StatusSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </StatusSiteID>
+</ecommerce.orderstatus>

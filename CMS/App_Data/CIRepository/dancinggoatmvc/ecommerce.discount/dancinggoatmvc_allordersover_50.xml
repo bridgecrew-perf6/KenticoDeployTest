@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ecommerce.discount>
+  <DiscountApplyFurtherDiscounts>True</DiscountApplyFurtherDiscounts>
+  <DiscountApplyTo>Shipping</DiscountApplyTo>
+  <DiscountCustomerRestriction>All</DiscountCustomerRestriction>
+  <DiscountDisplayName>All orders over $50</DiscountDisplayName>
+  <DiscountEnabled>True</DiscountEnabled>
+  <DiscountGUID>263895f6-bd48-41de-92c2-b4d40e1343e9</DiscountGUID>
+  <DiscountIsFlat>False</DiscountIsFlat>
+  <DiscountName>DancingGoatMvc_AllOrdersOver_50</DiscountName>
+  <DiscountOrder>1</DiscountOrder>
+  <DiscountOrderAmount>50</DiscountOrderAmount>
+  <DiscountRoles />
+  <DiscountSiteID>
+    <CodeName>DancingGoatMvc</CodeName>
+    <GUID>d59dce75-ad79-4a67-b2fc-72a7f2bee108</GUID>
+    <ObjectType>cms.site</ObjectType>
+  </DiscountSiteID>
+  <DiscountUsesCoupons>False</DiscountUsesCoupons>
+  <DiscountValue>100</DiscountValue>
+</ecommerce.discount>
