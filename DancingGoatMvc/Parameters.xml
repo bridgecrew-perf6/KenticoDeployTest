@@ -7,7 +7,7 @@
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add[@name='CMSConnectionString']/@connectionString" />
   </parameter>
   <parameter name="CMSConnectionString2" defaultValue="DB">
-    <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add[@name='CMSConnectionString2']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add/@connectionString" />
   </parameter>
   <parameter name="customErrorsMode" defaultValue="1">
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/system.web/customErrors/@mode" />
