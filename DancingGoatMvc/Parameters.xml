@@ -6,7 +6,7 @@
   <parameter name="CMSConnectionString" defaultValue="DB">
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add[@name='CMSConnectionString']/@connectionString" />
   </parameter>
-  <parameter name="CMSConnectionString2" defaultValue="DB">
+  <parameter name="CMSConnectionString2-Web.config Connection String" defaultValue="DB">
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add/@connectionString" />
   </parameter>
   <parameter name="customErrorsMode" defaultValue="1">
