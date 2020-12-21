@@ -3,12 +3,9 @@
   <!--<parameter name="CMSCIRepositoryPath" defaultValue="logs">
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/appSettings/add[@key='CMSCIRepositoryPath']/@value" />
   </parameter>-->
-  <parameter name="CMSConnectionString" defaultValue="DB">
+  <parameter name="CMSConnectionString-Web.config Connection String" defaultValue="DB">
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add[@name='CMSConnectionString']/@connectionString" />
-  </parameter>
-  <parameter name="CMSConnectionString2-Web.config Connection String" defaultValue="DB">
-    <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add/@connectionString" />
-  </parameter>
+  </parameter> 
   <parameter name="customErrorsMode" defaultValue="1">
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/system.web/customErrors/@mode" />
   </parameter>
