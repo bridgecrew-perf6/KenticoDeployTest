@@ -4,6 +4,6 @@
     <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/appSettings/add[@key='CMSCIRepositoryPath']/@value" />
   </parameter>
   <parameter name="CMSConnectionString" defaultValue="DB">
-    <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add[@key='CMSConnectionString']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="\\web.config$" match="/configuration/connectionStrings/add[@name='CMSConnectionString']/@connectionString" />
   </parameter>
 </parameters>
