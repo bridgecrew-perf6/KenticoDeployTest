@@ -951,6 +951,7 @@
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="Parameters.xml" />
     <Content Include="Scripts\addressSelector.js" />
     <Content Include="Scripts\formAutoPost.js" />
     <Content Include="Scripts\countryStateSelector.js" />
