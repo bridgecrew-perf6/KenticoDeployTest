@@ -3028,6 +3028,7 @@
     <Content Include="App_Themes\Default\Bootstrap\jquery-ui-override.less" />
     <Content Include="App_Themes\Default\CMSModules\cms.content\cms.content.general.less" />
     <Content Include="App_Themes\Default\CMSDesk.less" />
+    <Content Include="Parameters.xml" />
     <None Include="App_Themes\Default\CMSModules\cms.messages.less" />
     <None Include="App_Themes\Default\CMSModules\cms.emailmarketing\cms.emailmarketing.emailbuilder.emailproperties.less" />
     <None Include="App_Themes\Default\CMSModules\cms.emailmarketing\cms.emailmarketing.emailbuilder.less" />
@@ -14303,7 +14304,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="CMSScripts\Custom\" />
-    <Folder Include="CMSScripts\WebComponents\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="CMSScripts\WebComponents\app-globals-8931cc91.js" />
